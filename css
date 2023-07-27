@@ -1,1 +1,40 @@
 
+head {
+
+    background-color: aqua;
+    color:black;
+    
+}
+
+body {
+    background-color: bisque;
+}
+
+.jumbotron {
+    background-color: orange;
+    color: black;
+}
+
+
+footer {
+    padding: 10px 10px 0px 10px;
+    background-color: orange;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.card-hotel{
+    flex: 1 150px;
+    padding: 2px 2px 2px 2px;
+    margin-top: 10px;
+
+}
+.btn-reserva {
+    width: 100%;
+
+
+}
+
+h1 {
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "listahoteles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/disenioweb1/practica_uno_uno.git"
+  },
+  "author": "María Batz de León",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/disenioweb1/practica_uno_uno/issues"
+  },
+  "homepage": "https://bitbucket.org/disenioweb1/practica_uno_uno#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.7.0",
+    "popper.js": "^1.16.1"
+  }
+}
